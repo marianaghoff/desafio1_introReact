@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+h1 {
+  padding-bottom: 20px;
+}
+
+h5 {
+  padding-top: 20px;
+}
+
+.card-img-top {
+  padding-bottom: 10px;
+}
+
+.img-general {
+  height: 150px;
+}
+
+.title-general {
+  height: 30px;
+}
+
+.descrip-general {
+  height: 150px;
+}
